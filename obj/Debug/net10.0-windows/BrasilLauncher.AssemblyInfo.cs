@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrasilLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ae434a5d36b22e5630883ce9e2e84f030bf4ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab6688e9b66e2159ba9f0af0cd429a22906b183")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrasilLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrasilLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

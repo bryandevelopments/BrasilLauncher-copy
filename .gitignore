@@ -1,0 +1,74 @@
+# Visual Studio / .NET .gitignore
+# Generated for C# projects, Visual Studio, and Rider
+
+# Build Folders
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/
+
+# Dotnet publish
+publish/
+
+# Runtime files
+*.runtimeconfig.json
+*.deps.json
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+
+# JetBrains Rider
+/.idea/
+
+# Rider caches
+.idea/*/workspace.xml
+
+# Azure DevOps
+_TFS*/
+
+# Mono
+*.pidb
+
+# Backup & temporary files
+*~
+*.tmp
+*.temp
